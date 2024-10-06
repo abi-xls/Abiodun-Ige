@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abi-xls, a data enthusiast
+- 👋 Hi, I’m Abiodun Ige, a data enthusiast
 - 👀 I’m interested in data informatics and business intelligence analysis
 - 🌱 I’m currently upskilling into data analysis to get into the world of big data
 - 💞️ I’m looking to collaborate on ...
