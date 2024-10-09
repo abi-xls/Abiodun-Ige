@@ -2,13 +2,12 @@
 - ## I am Abiodun Ige,  a data enthusiast.
 - ## I’m a business support manager who is currently upskilling into data analysis to get into the world of big data
 - 👀 I’m interested in data informatics and business intelligence analysis
-
 - I will be opened to a Data Analyst role soon
 - 📫 How to reach me : [Linkedin](https://www.linkedin.com/in/abiodun-ige-136b52331/)
 -                      Email: abiodun.ige23@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am adventurous and like to get on new challenges.
-- I am profiecient in Microsoft Office Suite including:
+- I am proficient in Microsoft Office Suite including:
 - Ms project for project planning
 - Ms Visio for process mapping/ process re-engineering
 - Ms Excel for data management and analysis
